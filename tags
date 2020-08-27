@@ -1,0 +1,355 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+ASSERT	cachelab/cachelab-f18-iamthem/contracts.h	/^#define ASSERT(/;"	d
+BELE	cprogramminglab-handout/harness.c	/^typedef struct BELE {$/;"	s	file:
+BIG_QUEUE	cprogramminglab-handout/qtest.c	/^#define BIG_QUEUE /;"	d	file:
+BUFSIZE	cprogramminglab-handout/qtest.c	/^#define BUFSIZE /;"	d	file:
+CACHELAB_TOOLS_H	cachelab/cachelab-f18-iamthem/cachelab.h	/^#define CACHELAB_TOOLS_H$/;"	d
+CC	cachelab/cachelab-f18-iamthem/Makefile	/^CC = gcc$/;"	m
+CC	cprogramminglab-handout/Makefile	/^CC = gcc$/;"	m
+CELE	cprogramminglab-handout/console.h	/^struct CELE {$/;"	s
+CFLAGS	cachelab/cachelab-f18-iamthem/Makefile	/^CFLAGS = -g -Wall -Werror -std=c99$/;"	m
+CFLAGS	cprogramminglab-handout/Makefile	/^CFLAGS = -O0 -g -Wall -Werror$/;"	m
+E	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t E;$/;"	m	struct:cache_info	typeref:typename:size_t	file:
+E	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t E;$/;"	m	struct:chain_node	typeref:typename:size_t	file:
+ELE	cprogramminglab-handout/queue.h	/^typedef struct ELE {$/;"	s
+ENSURES	cachelab/cachelab-f18-iamthem/contracts.h	/^#define ENSURES(/;"	d
+FILLCHAR	cprogramminglab-handout/harness.c	/^#define FILLCHAR /;"	d	file:
+HIT_CYCLES	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define HIT_CYCLES /;"	d	file:
+INTERNAL	cprogramminglab-handout/harness.c	/^#define INTERNAL /;"	d	file:
+INTERNAL	cprogramminglab-handout/qtest.c	/^#define INTERNAL /;"	d	file:
+M	cachelab/cachelab-f18-iamthem/test-trans.c	/^static size_t M = 0;$/;"	v	typeref:typename:size_t	file:
+M	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static size_t M;$/;"	v	typeref:typename:size_t	file:
+MAGICFOOTER	cprogramminglab-handout/harness.c	/^#define MAGICFOOTER /;"	d	file:
+MAGICFREE	cprogramminglab-handout/harness.c	/^#define MAGICFREE /;"	d	file:
+MAGICHEADER	cprogramminglab-handout/harness.c	/^#define MAGICHEADER /;"	d	file:
+MAX	cprogramminglab-handout/report.c	/^#define MAX(/;"	d	file:
+MAXN	cachelab/cachelab-f18-iamthem/cachelab.h	/^#define MAXN /;"	d
+MAXQUIT	cprogramminglab-handout/console.c	/^#define MAXQUIT /;"	d	file:
+MAXSTRING	cprogramminglab-handout/qtest.c	/^#define MAXSTRING /;"	d	file:
+MAX_CHAR	cprogramminglab-handout/report.h	/^#define MAX_CHAR /;"	d
+MAX_TRANS_FUNCS	cachelab/cachelab-f18-iamthem/cachelab.h	/^#define MAX_TRANS_FUNCS /;"	d
+MISS_CYCLES	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define MISS_CYCLES /;"	d	file:
+MSG_ERROR	cprogramminglab-handout/report.h	/^typedef enum { MSG_WARN, MSG_ERROR, MSG_FATAL } message_t;$/;"	e	enum:__anoncc85f11b0103
+MSG_FATAL	cprogramminglab-handout/report.h	/^typedef enum { MSG_WARN, MSG_ERROR, MSG_FATAL } message_t;$/;"	e	enum:__anoncc85f11b0103
+MSG_WARN	cprogramminglab-handout/report.h	/^typedef enum { MSG_WARN, MSG_ERROR, MSG_FATAL } message_t;$/;"	e	enum:__anoncc85f11b0103
+N	cachelab/cachelab-f18-iamthem/test-trans.c	/^static size_t N = 0;$/;"	v	typeref:typename:size_t	file:
+N	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static size_t N;$/;"	v	typeref:typename:size_t	file:
+PELE	cprogramminglab-handout/console.h	/^struct PELE {$/;"	s
+REQUIRES	cachelab/cachelab-f18-iamthem/contracts.h	/^#define REQUIRES(/;"	d
+RIO_BUFSIZE	cprogramminglab-handout/console.c	/^#define RIO_BUFSIZE /;"	d	file:
+RIO_ELE	cprogramminglab-handout/console.c	/^struct RIO_ELE {$/;"	s	file:
+RPT	cprogramminglab-handout/report.h	/^#define RPT /;"	d
+STRINGPAD	cprogramminglab-handout/qtest.c	/^#define STRINGPAD /;"	d	file:
+SUBMIT_DESCRIPTION	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define SUBMIT_DESCRIPTION /;"	d	file:
+TEST_ASSOC	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define TEST_ASSOC /;"	d	file:
+TEST_LOG_BLOCK	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define TEST_LOG_BLOCK /;"	d	file:
+TEST_LOG_SET	cachelab/cachelab-f18-iamthem/test-trans.c	/^#define TEST_LOG_SET /;"	d	file:
+TMPCOUNT	cachelab/cachelab-f18-iamthem/cachelab.h	/^#define TMPCOUNT /;"	d
+Tracer	cprogramminglab-handout/driver.py	/^class Tracer:$/;"	c
+__anon97f570440108	cprogramminglab-handout/queue.h	/^typedef struct {$/;"	s
+__anoncc85f11b0103	cprogramminglab-handout/report.h	/^typedef enum { MSG_WARN, MSG_ERROR, MSG_FATAL } message_t;$/;"	g
+__init__	cprogramminglab-handout/driver.py	/^    def __init__(self, qtest = "", verbLevel = 0, autograde = False):$/;"	m	class:Tracer
+add_cmd	cprogramminglab-handout/console.c	/^void add_cmd(char *name, cmd_function operation, char *documentation) {$/;"	f	typeref:typename:void
+add_param	cprogramminglab-handout/console.c	/^void add_param(char *name, int *valp, char *documentation,$/;"	f	typeref:typename:void
+add_quit_helper	cprogramminglab-handout/console.c	/^void add_quit_helper(cmd_function qf) {$/;"	f	typeref:typename:void
+addr	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t addr;$/;"	m	struct:ins_info	typeref:typename:size_t	file:
+all	cprogramminglab-handout/Makefile	/^all: qtest$/;"	t
+allAsciiDigits	datalab/bits.c	/^int allAsciiDigits(int x) {$/;"	f	typeref:typename:int
+allOddBits	datalab/bits.c	/^int allOddBits(int x) {$/;"	f	typeref:typename:int
+allocate_bytes	cprogramminglab-handout/report.c	/^static size_t allocate_bytes = 0;$/;"	v	typeref:typename:size_t	file:
+allocate_cnt	cprogramminglab-handout/report.c	/^static size_t allocate_cnt = 0;$/;"	v	typeref:typename:size_t	file:
+allocated	cprogramminglab-handout/harness.c	/^static block_ele_t *allocated = NULL;$/;"	v	typeref:typename:block_ele_t *	file:
+allocated_count	cprogramminglab-handout/harness.c	/^static size_t allocated_count = 0;$/;"	v	typeref:typename:size_t	file:
+allocation_check	cprogramminglab-handout/harness.c	/^size_t allocation_check() {$/;"	f	typeref:typename:size_t
+array_info	cachelab/cachelab-f18-iamthem/csim.c	/^struct array_info {$/;"	s	file:
+autograde	cprogramminglab-handout/driver.py	/^    autograde = False$/;"	v	class:Tracer
+b	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t b;$/;"	m	struct:cache_info	typeref:typename:size_t	file:
+bigA	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static double bigA[MAXN][MAXN] __attribute__((aligned(64)));$/;"	v	typeref:typename:double[][]	file:
+bigAcopy	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static double bigAcopy[MAXN][MAXN];$/;"	v	typeref:typename:double[][]	file:
+bigB	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static double bigB[MAXN][MAXN] __attribute__((aligned(64)));$/;"	v	typeref:typename:double[][]	file:
+bigBtarg	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static double bigBtarg[MAXN][MAXN];$/;"	v	typeref:typename:double[][]	file:
+bigT	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static double bigT[TMPCOUNT]  __attribute__((aligned(64)));$/;"	v	typeref:typename:double[]	file:
+big_queue_size	cprogramminglab-handout/qtest.c	/^int big_queue_size = BIG_QUEUE;$/;"	v	typeref:typename:int
+bitParity	datalab/bits.c	/^int bitParity(int x) {$/;"	f	typeref:typename:int
+bitXor	datalab/bits.c	/^int bitXor(int x, int y) {$/;"	f	typeref:typename:int
+block_console	cprogramminglab-handout/console.c	/^void block_console() {$/;"	f	typeref:typename:void
+block_ele_t	cprogramminglab-handout/harness.c	/^} block_ele_t;$/;"	t	typeref:struct:BELE	file:
+block_flag	cprogramminglab-handout/console.c	/^static bool block_flag = false;$/;"	v	typeref:typename:bool	file:
+block_timing	cprogramminglab-handout/console.c	/^static bool block_timing = false;$/;"	v	typeref:typename:bool	file:
+buf	cprogramminglab-handout/console.c	/^    char buf[RIO_BUFSIZE]; \/* Internal buffer *\/$/;"	m	struct:RIO_ELE	typeref:typename:char[]	file:
+buf_stack	cprogramminglab-handout/console.c	/^rio_ptr buf_stack;$/;"	v	typeref:typename:rio_ptr
+bufptr	cprogramminglab-handout/console.c	/^    char *bufptr;          \/* Next unread byte in internal buffer *\/$/;"	m	struct:RIO_ELE	typeref:typename:char *	file:
+byte_array	cachelab/cachelab-f18-iamthem/csim.c	/^typedef struct array_info byte_array;$/;"	t	typeref:struct:array_info	file:
+cache	cachelab/cachelab-f18-iamthem/csim.c	/^typedef struct cache_info cache;$/;"	t	typeref:struct:cache_info	file:
+cache_info	cachelab/cachelab-f18-iamthem/csim.c	/^struct cache_info {$/;"	s	file:
+calloc_or_fail	cprogramminglab-handout/report.c	/^void *calloc_or_fail(size_t cnt, size_t bytes, char *fun_name) {$/;"	f	typeref:typename:void *
+cautious_mode	cprogramminglab-handout/harness.c	/^static bool cautious_mode = true;$/;"	v	typeref:typename:bool	file:
+chain_node	cachelab/cachelab-f18-iamthem/csim.c	/^struct chain_node {$/;"	s	file:
+check_exceed	cprogramminglab-handout/report.c	/^static void check_exceed(size_t new_bytes) {$/;"	f	typeref:typename:void	file:
+clean	cachelab/cachelab-f18-iamthem/Makefile	/^clean:$/;"	t
+clean	cprogramminglab-handout/Makefile	/^clean:$/;"	t
+cmd_done	cprogramminglab-handout/console.c	/^bool cmd_done() {$/;"	f	typeref:typename:bool
+cmd_ele	cprogramminglab-handout/console.h	/^typedef struct CELE cmd_ele, *cmd_ptr;$/;"	t	typeref:struct:CELE
+cmd_function	cprogramminglab-handout/console.h	/^typedef bool (*cmd_function)(int argc, char *argv[]);$/;"	t	typeref:typename:bool (*)(int argc,char * argv[])
+cmd_list	cprogramminglab-handout/console.c	/^static cmd_ptr cmd_list = NULL;$/;"	v	typeref:typename:cmd_ptr	file:
+cmd_ptr	cprogramminglab-handout/console.h	/^typedef struct CELE cmd_ele, *cmd_ptr;$/;"	t	typeref:struct:CELE *
+cmd_select	cprogramminglab-handout/console.c	/^int cmd_select(int nfds, fd_set *readfds, fd_set *writefds, fd_set *exceptfds,$/;"	f	typeref:typename:int
+cnt	cprogramminglab-handout/console.c	/^    int cnt;               \/* Unread bytes in internal buffer *\/$/;"	m	struct:RIO_ELE	typeref:typename:int	file:
+computeMissScore	cachelab/cachelab-f18-iamthem/driver.py	/^def computeMissScore(cycles, lower, upper, full_score):$/;"	f
+compute_load	cachelab/cachelab-f18-iamthem/csim.c	/^int compute_load(set *S, size_t addr, size_t E, size_t t) {$/;"	f	typeref:typename:int
+conditional	datalab/bits.c	/^int conditional(int x, int y, int z) {$/;"	f	typeref:typename:int
+console_init	cprogramminglab-handout/qtest.c	/^static void console_init() {$/;"	f	typeref:typename:void	file:
+copyMatrix	cachelab/cachelab-f18-iamthem/cachelab.c	/^void copyMatrix(size_t M, size_t N, double Adst[N][M], double Asrc[N][M])$/;"	f	typeref:typename:void
+correct	cachelab/cachelab-f18-iamthem/cachelab.h	/^    char correct;$/;"	m	struct:trans_func	typeref:typename:char
+correct	cachelab/cachelab-f18-iamthem/test-trans.c	/^    bool correct;$/;"	m	struct:results	typeref:typename:bool	file:
+correctTrans	cachelab/cachelab-f18-iamthem/cachelab.c	/^void correctTrans(size_t M, size_t N, double A[N][M], double B[M][N])$/;"	f	typeref:typename:void
+create_cache	cachelab/cachelab-f18-iamthem/csim.c	/^void create_cache ( cache *C )$/;"	f	typeref:typename:void
+create_set	cachelab/cachelab-f18-iamthem/csim.c	/^size_t create_set ( set *S, size_t tag_counter, size_t E, size_t b, size_t s )$/;"	f	typeref:typename:size_t
+csim	cachelab/cachelab-f18-iamthem/Makefile	/^csim: csim.c cachelab.c cachelab.h$/;"	t
+current_bytes	cprogramminglab-handout/report.c	/^size_t current_bytes = 0;$/;"	v	typeref:typename:size_t
+current_bytes	cprogramminglab-handout/report.h	/^size_t current_bytes;$/;"	v	typeref:typename:size_t
+d_v_and_t	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t d_v_and_t;$/;"	m	struct:line_info	typeref:typename:size_t	file:
+default_fatal_fun	cprogramminglab-handout/report.c	/^void default_fatal_fun() {$/;"	f	typeref:typename:void
+delta_time	cprogramminglab-handout/report.c	/^double delta_time(double *timep) {$/;"	f	typeref:typename:double
+description	cachelab/cachelab-f18-iamthem/cachelab.h	/^    char* description;$/;"	m	struct:trans_func	typeref:typename:char *
+do_comment_cmd	cprogramminglab-handout/console.c	/^bool do_comment_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_free	cprogramminglab-handout/qtest.c	/^bool do_free(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_help_cmd	cprogramminglab-handout/console.c	/^bool do_help_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_insert_head	cprogramminglab-handout/qtest.c	/^bool do_insert_head(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_insert_tail	cprogramminglab-handout/qtest.c	/^bool do_insert_tail(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_log_cmd	cprogramminglab-handout/console.c	/^bool do_log_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_new	cprogramminglab-handout/qtest.c	/^bool do_new(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_option_cmd	cprogramminglab-handout/console.c	/^bool do_option_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_quit_cmd	cprogramminglab-handout/console.c	/^bool do_quit_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_remove_head	cprogramminglab-handout/qtest.c	/^bool do_remove_head(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_remove_head_quiet	cprogramminglab-handout/qtest.c	/^bool do_remove_head_quiet(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_reverse	cprogramminglab-handout/qtest.c	/^bool do_reverse(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_show	cprogramminglab-handout/qtest.c	/^bool do_show(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_size	cprogramminglab-handout/qtest.c	/^bool do_size(int argc, char *argv[])$/;"	f	typeref:typename:bool
+do_source_cmd	cprogramminglab-handout/console.c	/^bool do_source_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+do_time_cmd	cprogramminglab-handout/console.c	/^bool do_time_cmd(int argc, char *argv[]) {$/;"	f	typeref:typename:bool
+documentation	cprogramminglab-handout/console.h	/^    char *documentation;$/;"	m	struct:CELE	typeref:typename:char *
+documentation	cprogramminglab-handout/console.h	/^    char *documentation;$/;"	m	struct:PELE	typeref:typename:char *
+echo	cprogramminglab-handout/console.c	/^static int echo = 0;$/;"	v	typeref:typename:int	file:
+entry	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^int entry(int argc, char* argv[]){$/;"	f	typeref:typename:int
+env	cprogramminglab-handout/harness.c	/^static jmp_buf env;$/;"	v	typeref:typename:jmp_buf	file:
+err_cnt	cprogramminglab-handout/console.c	/^static int err_cnt = 0;$/;"	v	typeref:typename:int	file:
+err_limit	cprogramminglab-handout/console.c	/^static int err_limit = 5;$/;"	v	typeref:typename:int	file:
+errfile	cprogramminglab-handout/report.c	/^FILE *errfile = NULL;$/;"	v	typeref:typename:FILE *
+error_check	cprogramminglab-handout/harness.c	/^bool error_check() {$/;"	f	typeref:typename:bool
+error_message	cprogramminglab-handout/harness.c	/^static char *error_message = "";$/;"	v	typeref:typename:char *	file:
+error_occurred	cprogramminglab-handout/harness.c	/^static bool error_occurred = false;$/;"	v	typeref:typename:bool	file:
+eval_perf	cachelab/cachelab-f18-iamthem/test-trans.c	/^void eval_perf(unsigned int s, unsigned int E, unsigned int b, $/;"	f	typeref:typename:void
+exception_cancel	cprogramminglab-handout/harness.c	/^void exception_cancel() {$/;"	f	typeref:typename:void
+exception_setup	cprogramminglab-handout/harness.c	/^bool exception_setup(bool limit_time) {$/;"	f	typeref:typename:bool
+fail_allocation	cprogramminglab-handout/harness.c	/^static bool fail_allocation() {$/;"	f	typeref:typename:bool	file:
+fail_buf	cprogramminglab-handout/report.c	/^static char fail_buf[1024] = "FATAL Error.  Exiting\\n";$/;"	v	typeref:typename:char[1024]	file:
+fail_count	cprogramminglab-handout/qtest.c	/^int fail_count = 0;$/;"	v	typeref:typename:int
+fail_fun	cprogramminglab-handout/report.c	/^void fail_fun(char *format, char *msg) {$/;"	f	typeref:typename:void
+fail_limit	cprogramminglab-handout/qtest.c	/^int fail_limit = BIG_QUEUE;$/;"	v	typeref:typename:int
+fail_probability	cprogramminglab-handout/harness.c	/^int fail_probability = 0;$/;"	v	typeref:typename:int
+fail_probability	cprogramminglab-handout/harness.h	/^int fail_probability;$/;"	v	typeref:typename:int
+fatal_fun	cprogramminglab-handout/report.c	/^void (*fatal_fun)() = default_fatal_fun;$/;"	v	typeref:typename:void (*)()
+fd	cprogramminglab-handout/console.c	/^    int fd;                \/* File descriptor *\/$/;"	m	struct:RIO_ELE	typeref:typename:int	file:
+fd_max	cprogramminglab-handout/console.c	/^int fd_max = 0;$/;"	v	typeref:typename:int
+find_footer	cprogramminglab-handout/harness.c	/^static size_t *find_footer(block_ele_t *b) {$/;"	f	typeref:typename:size_t *	file:
+find_header	cprogramminglab-handout/harness.c	/^static block_ele_t *find_header(void *p) {$/;"	f	typeref:typename:block_ele_t *	file:
+finish_cmd	cprogramminglab-handout/console.c	/^bool finish_cmd() {$/;"	f	typeref:typename:bool
+first_time	cprogramminglab-handout/console.c	/^static double first_time;$/;"	v	typeref:typename:double	file:
+floatIsLess	datalab/bits.c	/^int floatIsLess(unsigned uf, unsigned ug) {$/;"	f	typeref:typename:int
+floatScale1d2	datalab/bits.c	/^unsigned floatScale1d2(unsigned uf) {$/;"	f	typeref:typename:unsigned
+floatUnsigned2Float	datalab/bits.c	/^unsigned floatUnsigned2Float(unsigned u) {$/;"	f	typeref:typename:unsigned
+free	cprogramminglab-handout/harness.h	/^#define free /;"	d
+free_array	cprogramminglab-handout/report.c	/^void free_array(void *b, size_t cnt, size_t bytes) {$/;"	f	typeref:typename:void
+free_block	cprogramminglab-handout/report.c	/^void free_block(void *b, size_t bytes) {$/;"	f	typeref:typename:void
+free_bytes	cprogramminglab-handout/report.c	/^static size_t free_bytes = 0;$/;"	v	typeref:typename:size_t	file:
+free_cnt	cprogramminglab-handout/report.c	/^static size_t free_cnt = 0;$/;"	v	typeref:typename:size_t	file:
+free_string	cprogramminglab-handout/report.c	/^void free_string(char *s) {$/;"	f	typeref:typename:void
+func_counter	cachelab/cachelab-f18-iamthem/cachelab.c	/^int func_counter = 0;$/;"	v	typeref:typename:int
+func_list	cachelab/cachelab-f18-iamthem/cachelab.c	/^trans_func_t func_list[MAX_TRANS_FUNCS];$/;"	v	typeref:typename:trans_func_t[]
+func_ptr	cachelab/cachelab-f18-iamthem/cachelab.h	/^    void (*func_ptr)(size_t M, size_t N, double[N][M], double[M][N], double*);$/;"	m	struct:trans_func	typeref:typename:void (*)(size_t M,size_t N,double[N][M],double[M][N],double *)
+funcid	cachelab/cachelab-f18-iamthem/test-trans.c	/^    int funcid;$/;"	m	struct:results	typeref:typename:int	file:
+get_clock_cycles	cachelab/cachelab-f18-iamthem/test-trans.c	/^long get_clock_cycles(long hits, long misses) {$/;"	f	typeref:typename:long
+get_int	cprogramminglab-handout/console.c	/^bool get_int(char *vname, int *loc) {$/;"	f	typeref:typename:bool
+gigabytes	cprogramminglab-handout/report.c	/^double gigabytes(size_t n) {$/;"	f	typeref:typename:double
+head	cprogramminglab-handout/queue.h	/^    list_ele_t *head;  \/* Linked list of elements *\/$/;"	m	struct:__anon97f570440108	typeref:typename:list_ele_t *
+hits	cachelab/cachelab-f18-iamthem/test-trans.c	/^    long hits;$/;"	m	struct:results	typeref:typename:long	file:
+i	cachelab/get_words.c	/^int i = 0, j = 0, n = 0;$/;"	v	typeref:typename:int
+init	cachelab/cachelab-f18-iamthem/csim.c	/^    instruction *init;$/;"	m	struct:cache_info	typeref:typename:instruction *	file:
+initMatrix	cachelab/cachelab-f18-iamthem/cachelab.c	/^void initMatrix(size_t M, size_t N, double A[N][M], double B[M][N])$/;"	f	typeref:typename:void
+init_cmd	cprogramminglab-handout/console.c	/^void init_cmd() {$/;"	f	typeref:typename:void
+init_files	cprogramminglab-handout/report.c	/^void init_files(FILE *efile, FILE *vfile)$/;"	f	typeref:typename:void
+init_in	cprogramminglab-handout/console.c	/^static void init_in() {$/;"	f	typeref:typename:void	file:
+init_time	cprogramminglab-handout/report.c	/^void init_time(double *timep) {$/;"	f	typeref:typename:void
+ins_info	cachelab/cachelab-f18-iamthem/csim.c	/^struct ins_info {$/;"	s	file:
+instruction	cachelab/cachelab-f18-iamthem/csim.c	/^typedef struct ins_info instruction;$/;"	t	typeref:struct:ins_info	file:
+interpret_cmd	cprogramminglab-handout/console.c	/^bool interpret_cmd(char *cmdline) {$/;"	f	typeref:typename:bool
+interpret_cmda	cprogramminglab-handout/console.c	/^static bool interpret_cmda(int argc, char *argv[]) {$/;"	f	typeref:typename:bool	file:
+isLessOrEqual	datalab/bits.c	/^int isLessOrEqual(int x, int y) {$/;"	f	typeref:typename:int
+isTmax	datalab/bits.c	/^int isTmax(int x) {$/;"	f	typeref:typename:int
+is_set_full	cachelab/cachelab-f18-iamthem/csim.c	/^bool is_set_full ( set *S, size_t s, size_t b, size_t E )$/;"	f	typeref:typename:bool
+is_transpose	cachelab/cachelab-f18-iamthem/trans.c	/^bool is_transpose(size_t M, size_t N, double A[N][M], double B[M][N])$/;"	f	typeref:typename:bool
+j	cachelab/get_words.c	/^int i = 0, j = 0, n = 0;$/;"	v	typeref:typename:int
+jmp_ready	cprogramminglab-handout/harness.c	/^static volatile sig_atomic_t jmp_ready = false;$/;"	v	typeref:typename:volatile sig_atomic_t	file:
+last_peak_bytes	cprogramminglab-handout/report.c	/^size_t last_peak_bytes = 0;$/;"	v	typeref:typename:size_t
+last_peak_bytes	cprogramminglab-handout/report.h	/^size_t last_peak_bytes;$/;"	v	typeref:typename:size_t
+last_time	cprogramminglab-handout/console.c	/^static double last_time;$/;"	v	typeref:typename:double	file:
+len	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t len;$/;"	m	struct:array_info	typeref:typename:size_t	file:
+line	cachelab/cachelab-f18-iamthem/csim.c	/^typedef struct line_info line;$/;"	t	typeref:struct:line_info	file:
+line_info	cachelab/cachelab-f18-iamthem/csim.c	/^struct line_info {$/;"	s	file:
+linebuf	cprogramminglab-handout/console.c	/^char linebuf[RIO_BUFSIZE];$/;"	v	typeref:typename:char[]
+lines	cachelab/cachelab-f18-iamthem/csim.c	/^    line *lines [];$/;"	m	struct:chain_node	typeref:typename:line * []	file:
+list_ele_t	cprogramminglab-handout/queue.h	/^} list_ele_t;$/;"	t	typeref:struct:ELE
+load_instructions	cachelab/cachelab-f18-iamthem/csim.c	/^void load_instructions( char *line , instruction *curr) {$/;"	f	typeref:typename:void
+logfile	cprogramminglab-handout/report.c	/^FILE *logfile = NULL;$/;"	v	typeref:typename:FILE *
+logicalNeg	datalab/bits.c	/^int logicalNeg(int x) {$/;"	f	typeref:typename:int
+magic_header	cprogramminglab-handout/harness.c	/^    size_t magic_header; \/* Marker to see if block seems legitimate *\/$/;"	m	struct:BELE	typeref:typename:size_t	file:
+main	cachelab/cachelab-f18-iamthem/csim.c	/^int main (int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	cachelab/cachelab-f18-iamthem/driver.py	/^def main():$/;"	f
+main	cachelab/cachelab-f18-iamthem/test-trans.c	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	cprogramminglab-handout/qtest.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+malloc	cprogramminglab-handout/harness.h	/^#define malloc /;"	d
+malloc_or_fail	cprogramminglab-handout/report.c	/^void * malloc_or_fail(size_t bytes, char *fun_name) {$/;"	f	typeref:typename:void *
+maxScores	cprogramminglab-handout/driver.py	/^    maxScores = [0, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]$/;"	v	class:Tracer
+mblimit	cprogramminglab-handout/report.c	/^int mblimit = 0;$/;"	v	typeref:typename:int
+mem_status	cprogramminglab-handout/report.c	/^void mem_status(FILE *fp) {$/;"	f	typeref:typename:void
+message_t	cprogramminglab-handout/report.h	/^typedef enum { MSG_WARN, MSG_ERROR, MSG_FATAL } message_t;$/;"	t	typeref:enum:__anoncc85f11b0103
+misses	cachelab/cachelab-f18-iamthem/test-trans.c	/^    long misses;$/;"	m	struct:results	typeref:typename:long	file:
+n	cachelab/get_words.c	/^int i = 0, j = 0, n = 0;$/;"	v	typeref:typename:int
+name	cprogramminglab-handout/console.h	/^    char *name;$/;"	m	struct:CELE	typeref:typename:char *
+name	cprogramminglab-handout/console.h	/^    char *name;$/;"	m	struct:PELE	typeref:typename:char *
+negate	datalab/bits.c	/^int negate(int x) {$/;"	f	typeref:typename:int
+next	cachelab/cachelab-f18-iamthem/csim.c	/^    instruction *next;$/;"	m	struct:ins_info	typeref:typename:instruction *	file:
+next	cprogramminglab-handout/console.h	/^    cmd_ptr next;$/;"	m	struct:CELE	typeref:typename:cmd_ptr
+next	cprogramminglab-handout/console.h	/^    param_ptr next;$/;"	m	struct:PELE	typeref:typename:param_ptr
+next	cprogramminglab-handout/harness.c	/^    struct BELE *next;$/;"	m	struct:BELE	typeref:struct:BELE *	file:
+next	cprogramminglab-handout/queue.h	/^    struct ELE *next;$/;"	m	struct:ELE	typeref:struct:ELE *
+next_word	cachelab/cachelab-f18-iamthem/csim.c	/^    uint8_t *next_word;$/;"	m	struct:array_info	typeref:typename:uint8_t *	file:
+noallocate_mode	cprogramminglab-handout/harness.c	/^static bool noallocate_mode = false;$/;"	v	typeref:typename:bool	file:
+num_evictions	cachelab/cachelab-f18-iamthem/cachelab.h	/^    long num_evictions;$/;"	m	struct:trans_func	typeref:typename:long
+num_hits	cachelab/cachelab-f18-iamthem/cachelab.h	/^    long num_hits;$/;"	m	struct:trans_func	typeref:typename:long
+num_misses	cachelab/cachelab-f18-iamthem/cachelab.h	/^    long num_misses;$/;"	m	struct:trans_func	typeref:typename:long
+op	cachelab/cachelab-f18-iamthem/csim.c	/^    char *op;$/;"	m	struct:ins_info	typeref:typename:char *	file:
+operation	cprogramminglab-handout/console.h	/^    cmd_function operation;$/;"	m	struct:CELE	typeref:typename:cmd_function
+param_ele	cprogramminglab-handout/console.h	/^typedef struct PELE param_ele, *param_ptr;$/;"	t	typeref:struct:PELE
+param_list	cprogramminglab-handout/console.c	/^static param_ptr param_list = NULL;$/;"	v	typeref:typename:param_ptr	file:
+param_ptr	cprogramminglab-handout/console.h	/^typedef struct PELE param_ele, *param_ptr;$/;"	t	typeref:struct:PELE *
+parse_args	cprogramminglab-handout/console.c	/^char **parse_args(char *line, int *argcp) {$/;"	f	typeref:typename:char **
+payload	cprogramminglab-handout/harness.c	/^    unsigned char payload[0];$/;"	m	struct:BELE	typeref:typename:unsigned char[0]	file:
+payload_size	cprogramminglab-handout/harness.c	/^    size_t payload_size;$/;"	m	struct:BELE	typeref:typename:size_t	file:
+peak_bytes	cprogramminglab-handout/report.c	/^size_t peak_bytes = 0;$/;"	v	typeref:typename:size_t
+peak_bytes	cprogramminglab-handout/report.h	/^size_t peak_bytes;$/;"	v	typeref:typename:size_t
+pop_file	cprogramminglab-handout/console.c	/^static void pop_file() {$/;"	f	typeref:typename:void	file:
+prev	cprogramminglab-handout/console.c	/^    rio_ptr prev;          \/* Next element in stack *\/$/;"	m	struct:RIO_ELE	typeref:typename:rio_ptr	file:
+prev	cprogramminglab-handout/harness.c	/^    struct BELE *prev;$/;"	m	struct:BELE	typeref:struct:BELE *	file:
+printSummary	cachelab/cachelab-f18-iamthem/cachelab.c	/^void printSummary(long hits, long misses, long evictions,$/;"	f	typeref:typename:void
+prompt	cprogramminglab-handout/console.c	/^static char *prompt = "cmd>";$/;"	v	typeref:typename:char *	file:
+prompt_flag	cprogramminglab-handout/console.c	/^static bool prompt_flag = true;$/;"	v	typeref:typename:bool	file:
+push_file	cprogramminglab-handout/console.c	/^static bool push_file(char *fname) {$/;"	f	typeref:typename:bool	file:
+q	cprogramminglab-handout/qtest.c	/^queue_t *q = NULL;$/;"	v	typeref:typename:queue_t *
+q_free	cprogramminglab-handout/queue.c	/^void q_free(queue_t *q)$/;"	f	typeref:typename:void
+q_insert_head	cprogramminglab-handout/queue.c	/^bool q_insert_head(queue_t *q, char *s)$/;"	f	typeref:typename:bool
+q_insert_tail	cprogramminglab-handout/queue.c	/^bool q_insert_tail(queue_t *q, char *s)$/;"	f	typeref:typename:bool
+q_new	cprogramminglab-handout/queue.c	/^queue_t *q_new()$/;"	f	typeref:typename:queue_t *
+q_remove_head	cprogramminglab-handout/queue.c	/^bool q_remove_head(queue_t *q, char *sp, size_t bufsize)$/;"	f	typeref:typename:bool
+q_reverse	cprogramminglab-handout/queue.c	/^void q_reverse(queue_t *q)$/;"	f	typeref:typename:void
+q_size	cprogramminglab-handout/queue.c	/^int q_size(queue_t *q)$/;"	f	typeref:typename:int
+qcnt	cprogramminglab-handout/qtest.c	/^size_t qcnt = 0;$/;"	v	typeref:typename:size_t
+qtest	cprogramminglab-handout/Makefile	/^qtest: qtest.c report.c console.c harness.c queue.o$/;"	t
+qtest	cprogramminglab-handout/driver.py	/^    qtest = ".\/qtest"$/;"	v	class:Tracer
+queue.o	cprogramminglab-handout/Makefile	/^queue.o: queue.c queue.h harness.h$/;"	t
+queue_init	cprogramminglab-handout/qtest.c	/^static void queue_init() {$/;"	f	typeref:typename:void	file:
+queue_quit	cprogramminglab-handout/qtest.c	/^static bool queue_quit(int argc, char *argv[]) {$/;"	f	typeref:typename:bool	file:
+queue_t	cprogramminglab-handout/queue.h	/^} queue_t;$/;"	t	typeref:struct:__anon97f570440108
+quit_flag	cprogramminglab-handout/console.c	/^static bool quit_flag = false;$/;"	v	typeref:typename:bool	file:
+quit_helper_cnt	cprogramminglab-handout/console.c	/^static int quit_helper_cnt = 0;$/;"	v	typeref:typename:int	file:
+quit_helpers	cprogramminglab-handout/console.c	/^static cmd_function quit_helpers[MAXQUIT];$/;"	v	typeref:typename:cmd_function[]	file:
+read_file	cachelab/cachelab-f18-iamthem/csim.c	/^void read_file ( char *optarg, instruction *curr ) {$/;"	f	typeref:typename:void
+read_ready	cprogramminglab-handout/console.c	/^static bool read_ready() {$/;"	f	typeref:typename:bool	file:
+readline	cprogramminglab-handout/console.c	/^static char *readline() {$/;"	f	typeref:typename:char *	file:
+realloc_or_fail	cprogramminglab-handout/report.c	/^void * realloc_or_fail(void *old, size_t old_bytes, size_t new_bytes,$/;"	f	typeref:typename:void *
+record_error	cprogramminglab-handout/console.c	/^void record_error() {$/;"	f	typeref:typename:void
+registerFunctions	cachelab/cachelab-f18-iamthem/trans.c	/^void registerFunctions()$/;"	f	typeref:typename:void
+registerTransFunction	cachelab/cachelab-f18-iamthem/cachelab.c	/^void registerTransFunction(void (*trans)(size_t M, size_t N, double[N][M], double[M][N], double /;"	f	typeref:typename:void
+report	cprogramminglab-handout/report.c	/^void report(int level, char *fmt, ...)$/;"	f	typeref:typename:void
+report_event	cprogramminglab-handout/report.c	/^void report_event(message_t msg, char *fmt, ...)$/;"	f	typeref:typename:void
+report_noreturn	cprogramminglab-handout/report.c	/^void report_noreturn(int level, char *fmt, ...)$/;"	f	typeref:typename:void
+reset_peak_bytes	cprogramminglab-handout/report.c	/^void reset_peak_bytes() {$/;"	f	typeref:typename:void
+resident_bytes	cprogramminglab-handout/report.c	/^size_t resident_bytes() {$/;"	f	typeref:typename:size_t
+results	cachelab/cachelab-f18-iamthem/test-trans.c	/^static struct results results = {-1, false, LONG_MAX, LONG_MAX };$/;"	v	typeref:struct:results	file:
+results	cachelab/cachelab-f18-iamthem/test-trans.c	/^struct results {$/;"	s	file:
+reverse_helper	cprogramminglab-handout/queue.c	/^list_ele_t *reverse_helper(list_ele_t *l, unsigned int i)$/;"	f	typeref:typename:list_ele_t *
+rio_ptr	cprogramminglab-handout/console.c	/^typedef struct RIO_ELE rio_t, *rio_ptr;$/;"	t	typeref:struct:RIO_ELE *	file:
+rio_t	cprogramminglab-handout/console.c	/^typedef struct RIO_ELE rio_t, *rio_ptr;$/;"	t	typeref:struct:RIO_ELE	file:
+rotateLeft	datalab/bits.c	/^int rotateLeft(int x, int n) {$/;"	f	typeref:typename:int
+run	cprogramminglab-handout/driver.py	/^    def run(self, tid = 0):$/;"	m	class:Tracer
+run	cprogramminglab-handout/driver.py	/^def run(name, args):$/;"	f
+runTrace	cprogramminglab-handout/driver.py	/^    def runTrace(self, tid):$/;"	m	class:Tracer
+run_console	cprogramminglab-handout/console.c	/^bool run_console(char *infile_name) {$/;"	f	typeref:typename:bool
+rval	cprogramminglab-handout/report.c	/^volatile int rval = 0;$/;"	v	typeref:typename:volatile int
+s	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t s;$/;"	m	struct:cache_info	typeref:typename:size_t	file:
+s	cachelab/get_words.c	/^char* s[4];$/;"	v	typeref:typename:char * [4]
+safe_report	cprogramminglab-handout/report.c	/^void safe_report(int level, char *msg)$/;"	f	typeref:typename:void
+set	cachelab/cachelab-f18-iamthem/csim.c	/^typedef struct chain_node set;$/;"	t	typeref:struct:chain_node	file:
+set_cautious_mode	cprogramminglab-handout/harness.c	/^void set_cautious_mode(bool cautious)$/;"	f	typeref:typename:void
+set_echo	cprogramminglab-handout/console.c	/^void set_echo(bool on) {$/;"	f	typeref:typename:void
+set_logfile	cprogramminglab-handout/report.c	/^bool set_logfile(char *file_name)$/;"	f	typeref:typename:bool
+set_noallocate_mode	cprogramminglab-handout/harness.c	/^void set_noallocate_mode(bool noallocate)$/;"	f	typeref:typename:void
+set_prompt	cprogramminglab-handout/console.c	/^void set_prompt(char *p) {$/;"	f	typeref:typename:void
+set_verblevel	cprogramminglab-handout/report.c	/^void set_verblevel(int level)$/;"	f	typeref:typename:void
+sets	cachelab/cachelab-f18-iamthem/csim.c	/^    set **sets;$/;"	m	struct:cache_info	typeref:typename:set **	file:
+setter	cprogramminglab-handout/console.h	/^    setter_function setter;$/;"	m	struct:PELE	typeref:typename:setter_function
+setter_function	cprogramminglab-handout/console.h	/^typedef void (*setter_function)(int oldval);$/;"	t	typeref:typename:void (*)(int oldval)
+show_queue	cprogramminglab-handout/qtest.c	/^static bool show_queue(int vlevel)$/;"	f	typeref:typename:bool	file:
+sigalrm_handler	cachelab/cachelab-f18-iamthem/test-trans.c	/^void sigalrm_handler(int signum){$/;"	f	typeref:typename:void
+sigalrmhandler	cprogramminglab-handout/qtest.c	/^void sigalrmhandler(int sig) {$/;"	f	typeref:typename:void
+sigsegv_handler	cachelab/cachelab-f18-iamthem/test-trans.c	/^void sigsegv_handler(int signum){$/;"	f	typeref:typename:void
+sigsegvhandler	cprogramminglab-handout/qtest.c	/^void sigsegvhandler(int sig) {$/;"	f	typeref:typename:void
+simulate	cachelab/cachelab-f18-iamthem/csim.c	/^void simulate(cache *C, char *optarg) {$/;"	f	typeref:typename:void
+size	cachelab/cachelab-f18-iamthem/csim.c	/^    size_t size;$/;"	m	struct:ins_info	typeref:typename:size_t	file:
+size	cprogramminglab-handout/queue.h	/^    unsigned int size;$/;"	m	struct:__anon97f570440108	typeref:typename:unsigned int
+split_words	cachelab/cachelab-f18-iamthem/csim.c	/^char **split_words ( char * line, char delim ) {$/;"	f	typeref:typename:char **
+start_cmd	cprogramminglab-handout/console.c	/^bool start_cmd(char *infile_name) {$/;"	f	typeref:typename:bool
+string_length	cprogramminglab-handout/qtest.c	/^int string_length = MAXSTRING;$/;"	v	typeref:typename:int
+strsave_or_fail	cprogramminglab-handout/report.c	/^char *strsave_or_fail(char *s, char *fun_name) {$/;"	f	typeref:typename:char *
+tail	cprogramminglab-handout/queue.h	/^    list_ele_t *tail;$/;"	m	struct:__anon97f570440108	typeref:typename:list_ele_t *
+test	cprogramminglab-handout/Makefile	/^test: qtest driver.py$/;"	t
+test_free	cprogramminglab-handout/harness.c	/^void test_free(void *p)$/;"	f	typeref:typename:void
+test_malloc	cprogramminglab-handout/harness.c	/^void *test_malloc(size_t size)$/;"	f	typeref:typename:void *
+tests	cachelab/cachelab-f18-iamthem/driver.py	/^tests = ((1,1),$/;"	v
+time_limit	cprogramminglab-handout/harness.c	/^static int time_limit = 1;$/;"	v	typeref:typename:int	file:
+time_limited	cprogramminglab-handout/harness.c	/^static bool time_limited = false;$/;"	v	typeref:typename:bool	file:
+timelimit	cprogramminglab-handout/report.c	/^int timelimit = 0;$/;"	v	typeref:typename:int
+tmin	datalab/bits.c	/^int tmin(void) {$/;"	f	typeref:typename:int
+traceDict	cprogramminglab-handout/driver.py	/^    traceDict = {$/;"	v	class:Tracer
+traceDirectory	cprogramminglab-handout/driver.py	/^    traceDirectory = ".\/traces"$/;"	v	class:Tracer
+traceProbs	cprogramminglab-handout/driver.py	/^    traceProbs = {$/;"	v	class:Tracer
+trans	cachelab/cachelab-f18-iamthem/trans.c	/^void trans(size_t M, size_t N, double A[N][M], double B[M][N], double *tmp)$/;"	f	typeref:typename:void
+trans_desc	cachelab/cachelab-f18-iamthem/trans.c	/^char trans_desc[] = "Simple row-wise scan transpose";$/;"	v	typeref:typename:char[]
+trans_func	cachelab/cachelab-f18-iamthem/cachelab.h	/^typedef struct trans_func{$/;"	s
+trans_func_t	cachelab/cachelab-f18-iamthem/cachelab.h	/^} trans_func_t;$/;"	t	typeref:struct:trans_func
+trans_tmp	cachelab/cachelab-f18-iamthem/trans.c	/^void trans_tmp(size_t M, size_t N, double A[N][M], double B[M][N], double *tmp)$/;"	f	typeref:typename:void
+trans_tmp_desc	cachelab/cachelab-f18-iamthem/trans.c	/^char trans_tmp_desc[] =$/;"	v	typeref:typename:char[]
+transpose_submit	cachelab/cachelab-f18-iamthem/trans.c	/^void transpose_submit(size_t M, size_t N, double A[N][M], double B[M][N], double *tmp)$/;"	f	typeref:typename:void
+transpose_submit_desc	cachelab/cachelab-f18-iamthem/trans.c	/^char transpose_submit_desc[] = "Transpose submission";$/;"	v	typeref:typename:char[]
+trigger_exception	cprogramminglab-handout/harness.c	/^void trigger_exception(char *msg) {$/;"	f	typeref:typename:void
+unblock_console	cprogramminglab-handout/console.c	/^void unblock_console() {$/;"	f	typeref:typename:void
+usage	cachelab/cachelab-f18-iamthem/test-trans.c	/^void usage(char *argv[]){$/;"	f	typeref:typename:void
+usage	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^static void usage(char *cmd) {$/;"	f	typeref:typename:void	file:
+usage	cprogramminglab-handout/driver.py	/^def usage(name):$/;"	f
+usage	cprogramminglab-handout/qtest.c	/^static void usage(char *cmd) {$/;"	f	typeref:typename:void	file:
+validate	cachelab/cachelab-f18-iamthem/tracegen-ct.c	/^bool validate(int fn, double A[N][M], double Acopy[N][M], double B[M][N], double Btarg[M][N]) {$/;"	f	typeref:typename:bool
+valp	cprogramminglab-handout/console.h	/^    int *valp;$/;"	m	struct:PELE	typeref:typename:int *
+value	cprogramminglab-handout/queue.h	/^    char *value;$/;"	m	struct:ELE	typeref:typename:char *
+verbLevel	cprogramminglab-handout/driver.py	/^    verbLevel = 0$/;"	v	class:Tracer
+verbfile	cprogramminglab-handout/report.c	/^FILE *verbfile = NULL;$/;"	v	typeref:typename:FILE *
+verblevel	cprogramminglab-handout/report.c	/^int verblevel = 0;$/;"	v	typeref:typename:int
+word	cachelab/get_words.c	/^char word[20];$/;"	v	typeref:typename:char[20]
+words	cachelab/get_words.c	/^char* words = "This is a sentence";$/;"	v	typeref:typename:char *
